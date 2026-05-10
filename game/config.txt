@@ -1,0 +1,12 @@
+Game_name:美國內戰：失去男子♂氣概，國家還能順利運轉嗎？！;
+Game_key:3875d892d0f4ba;
+Title_img:啟動圖/2.png;
+Title_bgm:林肯競選歌.mp3 -vocal= Bobby Horton (youtube).mp3 -vocal= Bobby Horton (youtube).mp3 -vocal= Bobby Horton (youtube).mp3 -vocal= Bobby Horton (youtube).mp3 -vocal= Bobby Horton (youtube).mp3 -vocal= Bobby Horton (youtube).mp3;
+Textbox_theme:imss;
+Game_Logo:啟動圖/1.png;
+Enable_Appreciation:true;
+Steam_AppID:;
+Package_name:American Civil War：Belles of the Cabinet;
+Description:;
+Default_Language:zh_TW;
+Show_panic:true;

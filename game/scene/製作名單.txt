@@ -1,0 +1,5 @@
+
+changeBg:製作名單/1.png;
+changeBg:製作名單/2.png;
+changeBg:none;
+changeScene:start.txt;
