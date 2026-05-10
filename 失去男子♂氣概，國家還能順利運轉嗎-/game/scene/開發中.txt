@@ -1,3 +1,0 @@
-
-intro:開發中……敬請期待……！ -fontSize=medium -backgroundColor=rgba(194, 160, 110, 1) -fontColor=rgba(112, 112, 112, 1) -animation=fadeIn -delayTime=1500;
-end;

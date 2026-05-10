@@ -1,5 +1,0 @@
-unlockBgm:林肯競選歌.mp3 -name=Lincoln and Liberty;
-【人物介紹】與【註釋】可在「CG模式」中解鎖;
-:
-choose:製作名單:製作名單.txt|直接開始:选择场景文件;
-changeScene:開篇/開篇之一.txt;
