@@ -1,0 +1,2 @@
+intro:伊萊休・B・沃什伯恩|激進共和黨的領袖，在美國共和黨的早期形成過程中扮演了重要角色。沃什伯恩在美國內戰前後均擔任伊利諾伊州國會議員，是林肯的政治盟友。 -fontSize=small -backgroundColor=rgba(148, 107, 49, 1) -fontColor=rgba(16, 4, 69, 1) -animation=fadeIn -delayTime=1500 -userForward;
+changeScene:start.txt;
